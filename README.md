@@ -87,7 +87,11 @@ Everyone interacting in Rails and its sub-projects' codebases, issue trackers, c
 ## Code Status
 
 [![Build Status](https://travis-ci.org/rails/rails.svg?branch=master)](https://travis-ci.org/rails/rails)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffossas%2Frails.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffossas%2Frails?ref=badge_shield)
 
 ## License
 
 Ruby on Rails is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffossas%2Frails.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffossas%2Frails?ref=badge_large)
